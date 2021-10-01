@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=
+comment1.target=Calculator()
+comment2.params=
+comment2.target=double\ quadraticpluss()
+comment3.params=
+comment3.target=double\ quadraticminuss()
+comment4.params=
+comment4.target=double\ slopeyjoe()
+comment5.params=
+comment5.target=double\ xmid()
+comment6.params=
+comment6.target=double\ ymid()
+comment7.params=
+comment7.target=double\ arithtotle()
+comment8.params=
+comment8.target=double\ gecometric()
+comment9.params=
+comment9.target=void\ display()
+numComments=10
